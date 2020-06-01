@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project was created to manage a system of movies, where is possible you view the list of movies, edit, registered new movies and delete them.
 
-![](https://github.com/dev-mariana/movies/blob/master/src/assets/images/filmes.jpg)
+![](https://github.com/dev-mariana/movies/blob/master/src/assets/images/filmes.PNG)
 
 ## Instalação - Installation
 
